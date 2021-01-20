@@ -8,7 +8,7 @@ status-website:
   introMessage: This status page uses **real-time** data from our [Github repository](https://github.com/brittonhayes/dnd-uptime). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
-      href: /
+      href: /dnd-uptime
     - title: API
       href: https://github.com/bagelbits/5e-srd-api
     - title: Database
