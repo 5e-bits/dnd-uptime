@@ -16,25 +16,5 @@
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "DnD 5e API - Graphql",
-    "url": "https://www.dnd5eapi.co/graphql",
-    "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
-    "slug": "dn-d-5e-api-graphql",
-    "status": "down",
-    "uptime": "2.55%",
-    "uptimeDay": "2.55%",
-    "uptimeWeek": "2.55%",
-    "uptimeMonth": "2.55%",
-    "uptimeYear": "2.55%",
-    "time": 60,
-    "timeDay": 60,
-    "timeWeek": 60,
-    "timeMonth": 60,
-    "timeYear": 60,
-    "dailyMinutesDown": {
-      "2021-01-20": 0
-    }
   }
 ]
