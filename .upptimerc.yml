@@ -1,11 +1,28 @@
 owner: brittonhayes # GitHub username
 repo: dnd-uptime # GitHub repository name
 status-website:
-  name: DnD Uptime
+  name: DnD REST API
   logoUrl: https://www.dnd5eapi.co/public/favicon.ico
   baseUrl: /dnd-uptime
+  introTitle: "**DnD Status** tracks the availability and uptime of the DnD 5e SRD REST API"
+  introMessage: This status page uses **real-time** data from our [Github repository](https://github.com/brittonhayes/dnd-uptime). No server required — just GitHub Actions, Issues, and Pages.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
 sites: # List of endpoints to track
   - name: DnD 5e API
     url: https://www.dnd5eapi.co/api
   - name: DnD 5e API - Ability Scores
     url: https://www.dnd5eapi.co/api/ability-scores
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
