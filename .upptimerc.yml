@@ -1,5 +1,10 @@
 owner: brittonhayes # GitHub username
 repo: dnd-uptime # GitHub repository name
+status-website:
+  name: DnD Uptime
+  logoUrl: https://www.dnd5eapi.co/public/favicon.ico
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
+  - name: DnD 5e API
+    url: https://www.dnd5eapi.co/api
+  - name: DnD 5e API - Ability Scores
+    url: https://www.dnd5eapi.co/api/ability-scores
