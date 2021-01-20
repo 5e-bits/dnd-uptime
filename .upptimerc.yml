@@ -4,7 +4,7 @@ status-website:
   name: D&D API Status
   logoUrl: https://www.dnd5eapi.co/public/favicon.ico
   baseUrl: /dnd-uptime
-  introTitle: "**Status** tracks the and uptime of the D&D REST API"
+  introTitle: "**Status** tracks the uptime of the D&D REST API"
   introMessage: This status page uses **real-time** data from our [Github repository](https://github.com/brittonhayes/dnd-uptime). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
@@ -17,8 +17,6 @@ status-website:
 sites: # List of endpoints to track
   - name: DnD 5e API
     url: https://www.dnd5eapi.co/api
-  - name: DnD 5e API - Graphql
-    url: https://www.dnd5eapi.co/graphql
 
 workflowSchedule:
   graphs: "0 0 * * *"
