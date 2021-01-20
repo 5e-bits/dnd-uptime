@@ -1,24 +1,5 @@
-# Change these first
-owner: brittonhayes # Your GitHub username
-repo: dnd-uptime # Your GitHub repository name
-
-# Add your sites here
-sites:
-  - name: DnD 5e API
-    url: https://www.dnd5eapi.co/api
-
-status-website:
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /dnd-uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: DnD Uptime
-  introTitle: "**DnD Uptime** is the uptime monitor and status page for the DnD REST API."
-  introMessage: [Try out the API here](https://www.dnd5eapi.co/api)
-  navbar:
-      - title: Status
-        href: /
-        - title: GitHub
-          href: https://github.com/brittonhayes/dnd-uptime
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+owner: brittonhayes # GitHub username
+repo: dnd-uptime # GitHub repository name
+sites: # List of endpoints to track
+  - name: Google
+    url: https://www.google.com
