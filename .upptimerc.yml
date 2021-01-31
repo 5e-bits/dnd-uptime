@@ -1,7 +1,10 @@
 owner: 5e-bits # GitHub username
 repo: dnd-uptime # GitHub repository name
+assignees:
+  - bagelbits
 status-website:
   name: D&D API Status
+  theme: dark
   logoUrl: https://www.dnd5eapi.co/public/favicon.ico
   baseUrl: /dnd-uptime
   introTitle: "**Status** tracks the uptime of the D&D REST API"
