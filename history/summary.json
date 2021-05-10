@@ -4,17 +4,19 @@
     "url": "https://www.dnd5eapi.co/api",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "dn-d-5e-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 230,
-    "timeWeek": 202,
-    "timeMonth": 207,
+    "timeDay": 174,
+    "timeWeek": 191,
+    "timeMonth": 204,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-10": 0
+    }
   }
 ]
