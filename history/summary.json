@@ -4,19 +4,19 @@
     "url": "https://www.dnd5eapi.co/api",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "dn-d-5e-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 174,
-    "timeWeek": 191,
-    "timeMonth": 204,
-    "timeYear": 169,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 171,
+    "timeDay": 247,
+    "timeWeek": 214,
+    "timeMonth": 210,
+    "timeYear": 171,
     "dailyMinutesDown": {
-      "2021-05-10": 0
+      "2021-05-10": 39
     }
   }
 ]
