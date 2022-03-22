@@ -7,25 +7,75 @@ status-website:
   theme: dark
   logoUrl: https://www.dnd5eapi.co/public/favicon.ico
   baseUrl: /dnd-uptime
-  introTitle: "**Status** tracks the uptime of the D&D REST API"
+  introTitle: '**Status** tracks the uptime of the D&D REST API'
   introMessage: This status page uses **real-time** data from our [Github repository](https://github.com/5e-bits/dnd-uptime). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /dnd-uptime
     - title: API
+      href: https://www.dnd5eapi.co
+    - title: GraphQL
+      href: https://www.dnd5eapi.co/graphql
+    - title: API Source
       href: https://github.com/5e-bits/5e-srd-api
-    - title: Database
+    - title: Database Source
       href: https://github.com/5e-bits/5e-database
-
 sites: # List of endpoints to track
-  - name: DnD 5e API
+  - name: Website
+    url: https://www.dnd5eapi.co
+  - name: API
     url: https://www.dnd5eapi.co/api
-
+  - name: GraphQL
+    url: https://www.dnd5eapi.co/graphql
+  - name: Ability Scores
+    url: https://www.dnd5eapi.co/api/ability-scores
+  - name: Alignments
+    url: https://www.dnd5eapi.co/api/alignments
+  - name: Backgrounds
+    url: https://www.dnd5eapi.co/api/backgrounds
+  - name: Classes
+    url: https://www.dnd5eapi.co/api/classes
+  - name: Conditions
+    url: https://www.dnd5eapi.co/api/conditions
+  - name: Damage Types
+    url: https://www.dnd5eapi.co/api/damage-types
+  - name: Equipment Categories
+    url: https://www.dnd5eapi.co/api/equipment-categories
+  - name: Equipment
+    url: https://www.dnd5eapi.co/api/equipment
+  - name: Features
+    url: https://www.dnd5eapi.co/api/features
+  - name: Languages
+    url: https://www.dnd5eapi.co/api/languages
+  - name: Magic Schools
+    url: https://www.dnd5eapi.co/api/magic-schools
+  - name: Monsters
+    url: https://www.dnd5eapi.co/api/monsters
+  - name: Proficiencies
+    url: https://www.dnd5eapi.co/api/proficiencies
+  - name: Races
+    url: https://www.dnd5eapi.co/api/races
+  - name: Rules
+    url: https://www.dnd5eapi.co/api/rules
+  - name: Rule Sections
+    url: https://www.dnd5eapi.co/api/rule-sections
+  - name: Skills
+    url: https://www.dnd5eapi.co/api/skills
+  - name: Spells
+    url: https://www.dnd5eapi.co/api/spells
+  - name: Subclasses
+    url: https://www.dnd5eapi.co/api/subclasses
+  - name: Subraces
+    url: https://www.dnd5eapi.co/api/subraces
+  - name: Traits
+    url: https://www.dnd5eapi.co/api/traits
+  - name: Weapon Properties
+    url: https://www.dnd5eapi.co/api/weapon-properties
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  graphs: 0 0 * * *
+  responseTime: 0 23 * * *
+  staticSite: 0 1 * * *
+  summary: 0 0 * * *
+  updateTemplate: 0 0 * * *
+  updates: 0 3 * * *
+  uptime: '*/15 * * * *'
