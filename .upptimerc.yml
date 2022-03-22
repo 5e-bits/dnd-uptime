@@ -27,6 +27,10 @@ sites: # List of endpoints to track
     url: https://www.dnd5eapi.co/api
   - name: GraphQL
     url: https://www.dnd5eapi.co/graphql
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"query":"query { backgrounds { index } }"}'
   - name: Ability Scores
     url: https://www.dnd5eapi.co/api/ability-scores
   - name: Alignments
