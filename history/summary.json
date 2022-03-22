@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "graph-ql",
     "status": "down",
-    "uptime": "76.66%",
-    "uptimeDay": "76.66%",
-    "uptimeWeek": "76.66%",
-    "uptimeMonth": "76.66%",
-    "uptimeYear": "76.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 12,
     "timeDay": 12,
     "timeWeek": 12,
     "timeMonth": 12,
     "timeYear": 12,
-    "dailyMinutesDown": {
-      "2022-03-22": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ability Scores",
