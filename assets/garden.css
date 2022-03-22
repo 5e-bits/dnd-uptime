@@ -1,5 +1,5 @@
 :root {
-  --body-background-color: #03363d;
+  --body-background-color: #032024;
   --body-text-color: #fff;
   --card-background-color: #f8f9f9;
   --nav-background-color: #fff;
@@ -22,7 +22,6 @@
   --submit-button-background-color: #144a75;
   --submit-button-color: #ffffff;
   --graph-opacity: 0.75;
-  --graph-filter: brightness(0.28) saturate(13);
 }
 
 nav > .container {
