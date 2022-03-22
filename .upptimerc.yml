@@ -4,7 +4,7 @@ assignees:
   - bagelbits
 status-website:
   name: D&D API Status
-  theme: dark
+  themeUrl: https://5e-bits.github.io/dnd-uptime/garden.css
   logoUrl: https://www.dnd5eapi.co/public/favicon.ico
   baseUrl: /dnd-uptime
   introTitle: '**Status** tracks the uptime of the D&D REST API'
