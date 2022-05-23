@@ -4,19 +4,19 @@
     "url": "https://www.dnd5eapi.co",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 245,
-    "timeWeek": 211,
-    "timeMonth": 167,
-    "timeYear": 148,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
+    "time": 147,
+    "timeDay": 204,
+    "timeWeek": 201,
+    "timeMonth": 166,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2022-05-23": 2
+      "2022-05-23": 110
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.dnd5eapi.co/api",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 142,
-    "timeWeek": 56,
-    "timeMonth": 37,
-    "timeYear": 230,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
+    "time": 227,
+    "timeDay": 100,
+    "timeWeek": 52,
+    "timeMonth": 36,
+    "timeYear": 227,
     "dailyMinutesDown": {
-      "2022-05-23": 2
+      "2022-05-23": 110
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.dnd5eapi.co/graphql",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "graph-ql",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 32,
-    "timeDay": 147,
-    "timeWeek": 56,
-    "timeMonth": 38,
+    "timeDay": 107,
+    "timeWeek": 52,
+    "timeMonth": 37,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2022-05-23": 2
+      "2022-05-23": 110
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://www.dnd5eapi.co/api/ability-scores",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "ability-scores",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 31,
-    "timeDay": 148,
-    "timeWeek": 56,
+    "timeDay": 103,
+    "timeWeek": 51,
     "timeMonth": 36,
     "timeYear": 31,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://www.dnd5eapi.co/api/alignments",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "alignments",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 31,
-    "timeDay": 153,
-    "timeWeek": 61,
-    "timeMonth": 36,
+    "timeDay": 106,
+    "timeWeek": 56,
+    "timeMonth": 35,
     "timeYear": 31,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://www.dnd5eapi.co/api/backgrounds",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "backgrounds",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 33,
-    "timeDay": 151,
-    "timeWeek": 56,
-    "timeMonth": 35,
+    "timeDay": 105,
+    "timeWeek": 51,
+    "timeMonth": 34,
     "timeYear": 33,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://www.dnd5eapi.co/api/classes",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "classes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 32,
-    "timeDay": 150,
-    "timeWeek": 58,
-    "timeMonth": 36,
-    "timeYear": 32,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
+    "time": 34,
+    "timeDay": 148,
+    "timeWeek": 68,
+    "timeMonth": 40,
+    "timeYear": 34,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://www.dnd5eapi.co/api/conditions",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "conditions",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 32,
-    "timeDay": 148,
-    "timeWeek": 56,
-    "timeMonth": 36,
+    "timeDay": 105,
+    "timeWeek": 52,
+    "timeMonth": 35,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "https://www.dnd5eapi.co/api/damage-types",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "damage-types",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 31,
-    "timeDay": 149,
-    "timeWeek": 56,
-    "timeMonth": 36,
-    "timeYear": 31,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
+    "time": 30,
+    "timeDay": 103,
+    "timeWeek": 51,
+    "timeMonth": 35,
+    "timeYear": 30,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://www.dnd5eapi.co/api/equipment-categories",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "equipment-categories",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 33,
-    "timeDay": 149,
-    "timeWeek": 58,
-    "timeMonth": 38,
+    "timeDay": 104,
+    "timeWeek": 53,
+    "timeMonth": 37,
     "timeYear": 33,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://www.dnd5eapi.co/api/equipment",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "equipment",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 186,
-    "timeWeek": 92,
-    "timeMonth": 88,
-    "timeYear": 79,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
+    "time": 78,
+    "timeDay": 138,
+    "timeWeek": 87,
+    "timeMonth": 87,
+    "timeYear": 78,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "https://www.dnd5eapi.co/api/features",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "features",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 220,
-    "timeWeek": 118,
-    "timeMonth": 110,
-    "timeYear": 101,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
+    "time": 100,
+    "timeDay": 164,
+    "timeWeek": 111,
+    "timeMonth": 108,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -244,19 +244,19 @@
     "url": "https://www.dnd5eapi.co/api/languages",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "languages",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 31,
-    "timeDay": 144,
-    "timeWeek": 55,
+    "timeDay": 103,
+    "timeWeek": 51,
     "timeMonth": 35,
     "timeYear": 31,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -264,19 +264,19 @@
     "url": "https://www.dnd5eapi.co/api/magic-schools",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "magic-schools",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 30,
-    "timeDay": 143,
-    "timeWeek": 55,
-    "timeMonth": 35,
+    "timeDay": 99,
+    "timeWeek": 50,
+    "timeMonth": 34,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -284,19 +284,19 @@
     "url": "https://www.dnd5eapi.co/api/monsters",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "monsters",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 49,
-    "timeDay": 176,
-    "timeWeek": 77,
-    "timeMonth": 56,
+    "timeDay": 124,
+    "timeWeek": 71,
+    "timeMonth": 55,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -304,19 +304,19 @@
     "url": "https://www.dnd5eapi.co/api/proficiencies",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "proficiencies",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 43,
-    "timeDay": 148,
-    "timeWeek": 61,
-    "timeMonth": 49,
+    "timeDay": 107,
+    "timeWeek": 57,
+    "timeMonth": 48,
     "timeYear": 43,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -324,19 +324,19 @@
     "url": "https://www.dnd5eapi.co/api/races",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "races",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 32,
-    "timeDay": 147,
-    "timeWeek": 57,
+    "timeDay": 102,
+    "timeWeek": 52,
     "timeMonth": 36,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -344,19 +344,19 @@
     "url": "https://www.dnd5eapi.co/api/rules",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "rules",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 29,
-    "timeDay": 143,
-    "timeWeek": 57,
-    "timeMonth": 36,
+    "timeDay": 100,
+    "timeWeek": 52,
+    "timeMonth": 35,
     "timeYear": 29,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -364,19 +364,19 @@
     "url": "https://www.dnd5eapi.co/api/rule-sections",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "rule-sections",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 28,
-    "timeDay": 143,
-    "timeWeek": 53,
+    "timeDay": 99,
+    "timeWeek": 49,
     "timeMonth": 34,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -384,19 +384,19 @@
     "url": "https://www.dnd5eapi.co/api/skills",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "skills",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 30,
-    "timeDay": 143,
-    "timeWeek": 55,
+    "timeDay": 101,
+    "timeWeek": 50,
     "timeMonth": 35,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -404,19 +404,19 @@
     "url": "https://www.dnd5eapi.co/api/spells",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "spells",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 49,
-    "timeDay": 178,
-    "timeWeek": 78,
-    "timeMonth": 56,
+    "timeDay": 125,
+    "timeWeek": 71,
+    "timeMonth": 55,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2022-05-23": 1
+      "2022-05-23": 110
     }
   },
   {
@@ -424,19 +424,19 @@
     "url": "https://www.dnd5eapi.co/api/subclasses",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "subclasses",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.40%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 31,
-    "timeDay": 146,
-    "timeWeek": 56,
-    "timeMonth": 35,
+    "timeDay": 102,
+    "timeWeek": 51,
+    "timeMonth": 34,
     "timeYear": 31,
     "dailyMinutesDown": {
-      "2022-05-23": 0
+      "2022-05-23": 109
     }
   },
   {
@@ -444,19 +444,19 @@
     "url": "https://www.dnd5eapi.co/api/subraces",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "subraces",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.40%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 30,
-    "timeDay": 145,
-    "timeWeek": 55,
-    "timeMonth": 35,
+    "timeDay": 101,
+    "timeWeek": 51,
+    "timeMonth": 34,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2022-05-23": 0
+      "2022-05-23": 109
     }
   },
   {
@@ -464,19 +464,19 @@
     "url": "https://www.dnd5eapi.co/api/traits",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "traits",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.40%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 32,
-    "timeDay": 146,
-    "timeWeek": 56,
+    "timeDay": 102,
+    "timeWeek": 52,
     "timeMonth": 36,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2022-05-23": 0
+      "2022-05-23": 109
     }
   },
   {
@@ -484,19 +484,19 @@
     "url": "https://www.dnd5eapi.co/api/weapon-properties",
     "icon": "https://favicons.githubusercontent.com/www.dnd5eapi.co",
     "slug": "weapon-properties",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.40%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.88%",
     "time": 30,
-    "timeDay": 144,
-    "timeWeek": 55,
+    "timeDay": 100,
+    "timeWeek": 50,
     "timeMonth": 34,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2022-05-23": 0
+      "2022-05-23": 109
     }
   }
 ]
