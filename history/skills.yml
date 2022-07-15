@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/skills
-status: down
-code: 503
-responseTime: 187
-lastUpdated: 2022-07-15T09:50:50.773Z
+status: up
+code: 200
+responseTime: 83
+lastUpdated: 2022-07-15T10:42:27.822Z
 startTime: Tue Mar 22 2022 00:21:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
