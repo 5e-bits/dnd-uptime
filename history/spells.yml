@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/spells
-status: down
-code: 503
-responseTime: 199
-lastUpdated: 2022-07-15T09:50:53.936Z
+status: up
+code: 200
+responseTime: 160
+lastUpdated: 2022-07-15T10:42:30.567Z
 startTime: Tue Mar 22 2022 00:21:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
