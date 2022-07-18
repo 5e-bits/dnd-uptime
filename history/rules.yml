@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/rules
-status: down
-code: 503
-responseTime: 245
-lastUpdated: 2022-07-18T12:27:48.120Z
+status: up
+code: 200
+responseTime: 39
+lastUpdated: 2022-07-18T13:56:17.942Z
 startTime: Tue Mar 22 2022 00:21:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
