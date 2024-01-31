@@ -11,15 +11,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 259,
-    "timeDay": 48,
-    "timeWeek": 171,
-    "timeMonth": 153,
+    "timeDay": 281,
+    "timeWeek": 178,
+    "timeMonth": 154,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2023-09-26": 16,
       "2023-07-26": 46,
-      "2023-05-13": 27,
-      "2023-01-31": 21
+      "2023-05-13": 27
     }
   },
   {
@@ -34,13 +33,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 9,
-    "timeWeek": 35,
-    "timeMonth": 31,
-    "timeYear": 40,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "timeDay": 71,
+    "timeWeek": 36,
+    "timeMonth": 30,
+    "timeYear": 41,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GraphQL",
@@ -54,13 +51,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 9,
-    "timeWeek": 35,
+    "timeDay": 93,
+    "timeWeek": 39,
     "timeMonth": 31,
     "timeYear": 38,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ability Scores",
@@ -74,13 +69,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 9,
-    "timeWeek": 34,
+    "timeDay": 72,
+    "timeWeek": 35,
     "timeMonth": 28,
     "timeYear": 36,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alignments",
@@ -94,13 +87,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 38,
-    "timeDay": 8,
-    "timeWeek": 34,
+    "timeDay": 75,
+    "timeWeek": 36,
     "timeMonth": 28,
     "timeYear": 37,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Backgrounds",
@@ -114,13 +105,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 8,
+    "timeDay": 72,
     "timeWeek": 35,
     "timeMonth": 28,
     "timeYear": 36,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Classes",
@@ -134,13 +123,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 38,
-    "timeDay": 10,
-    "timeWeek": 35,
+    "timeDay": 77,
+    "timeWeek": 37,
     "timeMonth": 30,
     "timeYear": 37,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Conditions",
@@ -154,13 +141,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 9,
-    "timeWeek": 36,
+    "timeDay": 79,
+    "timeWeek": 37,
     "timeMonth": 30,
-    "timeYear": 37,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "timeYear": 38,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Damage Types",
@@ -174,13 +159,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 8,
-    "timeWeek": 35,
+    "timeDay": 72,
+    "timeWeek": 36,
     "timeMonth": 30,
     "timeYear": 37,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Equipment Categories",
@@ -194,13 +177,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 11,
-    "timeWeek": 36,
+    "timeDay": 73,
+    "timeWeek": 37,
     "timeMonth": 30,
     "timeYear": 39,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Equipment",
@@ -213,14 +194,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 35,
-    "timeWeek": 80,
-    "timeMonth": 69,
-    "timeYear": 91,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "time": 93,
+    "timeDay": 152,
+    "timeWeek": 81,
+    "timeMonth": 68,
+    "timeYear": 92,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Features",
@@ -234,13 +213,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 38,
-    "timeWeek": 93,
-    "timeMonth": 75,
+    "timeDay": 157,
+    "timeWeek": 94,
+    "timeMonth": 74,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Languages",
@@ -253,14 +230,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 37,
-    "timeDay": 8,
-    "timeWeek": 35,
+    "time": 38,
+    "timeDay": 74,
+    "timeWeek": 36,
     "timeMonth": 29,
     "timeYear": 37,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Magic Schools",
@@ -274,13 +249,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 38,
-    "timeDay": 9,
+    "timeDay": 72,
     "timeWeek": 35,
-    "timeMonth": 29,
+    "timeMonth": 28,
     "timeYear": 37,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Monsters",
@@ -294,13 +267,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 9,
-    "timeWeek": 63,
-    "timeMonth": 51,
-    "timeYear": 63,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "timeDay": 135,
+    "timeWeek": 64,
+    "timeMonth": 50,
+    "timeYear": 64,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Proficiencies",
@@ -314,13 +285,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 14,
-    "timeWeek": 41,
+    "timeDay": 78,
+    "timeWeek": 42,
     "timeMonth": 36,
     "timeYear": 47,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Races",
@@ -334,13 +303,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 38,
-    "timeDay": 8,
-    "timeWeek": 34,
+    "timeDay": 73,
+    "timeWeek": 35,
     "timeMonth": 29,
     "timeYear": 37,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rules",
@@ -354,13 +321,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 34,
-    "timeDay": 6,
-    "timeWeek": 32,
+    "timeDay": 69,
+    "timeWeek": 33,
     "timeMonth": 27,
-    "timeYear": 33,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "timeYear": 34,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rule Sections",
@@ -374,13 +339,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 38,
-    "timeDay": 6,
-    "timeWeek": 32,
+    "timeDay": 69,
+    "timeWeek": 33,
     "timeMonth": 26,
     "timeYear": 33,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Skills",
@@ -394,13 +357,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 10,
-    "timeWeek": 36,
-    "timeMonth": 30,
-    "timeYear": 36,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "timeDay": 100,
+    "timeWeek": 40,
+    "timeMonth": 31,
+    "timeYear": 37,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Spells",
@@ -414,13 +375,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 9,
-    "timeWeek": 62,
+    "timeDay": 136,
+    "timeWeek": 63,
     "timeMonth": 50,
     "timeYear": 63,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Subclasses",
@@ -433,14 +392,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 37,
-    "timeDay": 10,
-    "timeWeek": 35,
+    "time": 38,
+    "timeDay": 72,
+    "timeWeek": 36,
     "timeMonth": 29,
     "timeYear": 36,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Subraces",
@@ -454,13 +411,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 8,
-    "timeWeek": 34,
+    "timeDay": 73,
+    "timeWeek": 35,
     "timeMonth": 29,
     "timeYear": 36,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Traits",
@@ -474,13 +429,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 11,
-    "timeWeek": 36,
+    "timeDay": 73,
+    "timeWeek": 37,
     "timeMonth": 30,
     "timeYear": 39,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Weapon Properties",
@@ -494,12 +447,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 13,
-    "timeWeek": 39,
+    "timeDay": 73,
+    "timeWeek": 40,
     "timeMonth": 29,
     "timeYear": 36,
-    "dailyMinutesDown": {
-      "2023-01-31": 21
-    }
+    "dailyMinutesDown": {}
   }
 ]
