@@ -26,36 +26,40 @@
     "url": "https://www.dnd5eapi.co/api",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 44,
     "timeDay": 60,
     "timeWeek": 52,
     "timeMonth": 39,
     "timeYear": 41,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-11": 4
+    }
   },
   {
     "name": "GraphQL",
     "url": "https://www.dnd5eapi.co/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "graph-ql",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 37,
+    "time": 38,
     "timeDay": 59,
     "timeWeek": 45,
     "timeMonth": 38,
     "timeYear": 38,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-11": 3
+    }
   },
   {
     "name": "Ability Scores",
