@@ -27,10 +27,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptime": "99.89%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 40,
     "timeDay": 34,
@@ -38,7 +38,7 @@
     "timeMonth": 37,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2024-04-06": 30
+      "2024-04-06": 53
     }
   },
   {
@@ -48,9 +48,9 @@
     "slug": "graph-ql",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 41,
@@ -58,7 +58,7 @@
     "timeMonth": 38,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-04-06": 28
+      "2024-04-06": 51
     }
   },
   {
@@ -68,9 +68,9 @@
     "slug": "ability-scores",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 36,
     "timeDay": 34,
@@ -78,7 +78,7 @@
     "timeMonth": 36,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2024-04-06": 27
+      "2024-04-06": 50
     }
   },
   {
@@ -88,17 +88,17 @@
     "slug": "alignments",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 36,
     "timeDay": 35,
     "timeWeek": 37,
     "timeMonth": 37,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2024-04-06": 25
+      "2024-04-06": 48
     }
   },
   {
@@ -108,17 +108,17 @@
     "slug": "backgrounds",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 40,
     "timeDay": 33,
     "timeWeek": 36,
     "timeMonth": 36,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2024-04-06": 24
+      "2024-04-06": 47
     }
   },
   {
@@ -128,17 +128,17 @@
     "slug": "classes",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 35,
     "timeWeek": 37,
     "timeMonth": 38,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2024-04-06": 22
+      "2024-04-06": 45
     }
   },
   {
@@ -148,17 +148,17 @@
     "slug": "conditions",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 36,
     "timeWeek": 37,
     "timeMonth": 37,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2024-04-06": 21
+      "2024-04-06": 44
     }
   },
   {
@@ -168,17 +168,17 @@
     "slug": "damage-types",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 70,
     "timeDay": 36,
     "timeWeek": 38,
     "timeMonth": 44,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2024-04-06": 19
+      "2024-04-06": 42
     }
   },
   {
@@ -188,17 +188,17 @@
     "slug": "equipment-categories",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 39,
     "timeDay": 38,
     "timeWeek": 38,
     "timeMonth": 38,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-04-06": 18
+      "2024-04-06": 41
     }
   },
   {
@@ -208,17 +208,17 @@
     "slug": "equipment",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 91,
     "timeDay": 80,
     "timeWeek": 93,
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-04-06": 16
+      "2024-04-06": 39
     }
   },
   {
@@ -228,17 +228,17 @@
     "slug": "features",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 109,
     "timeDay": 91,
     "timeWeek": 93,
     "timeMonth": 93,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-04-06": 15
+      "2024-04-06": 38
     }
   },
   {
@@ -248,17 +248,17 @@
     "slug": "languages",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 35,
     "timeWeek": 38,
     "timeMonth": 37,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2024-04-06": 13
+      "2024-04-06": 36
     }
   },
   {
@@ -266,19 +266,19 @@
     "url": "https://www.dnd5eapi.co/api/magic-schools",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "magic-schools",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
-    "time": 37,
-    "timeDay": 33,
-    "timeWeek": 38,
-    "timeMonth": 38,
-    "timeYear": 38,
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 92,
+    "timeDay": 13825,
+    "timeWeek": 3485,
+    "timeMonth": 899,
+    "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-04-06": 12
+      "2024-04-06": 34
     }
   },
   {
@@ -304,19 +304,19 @@
     "url": "https://www.dnd5eapi.co/api/proficiencies",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "proficiencies",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 47,
-    "timeDay": 43,
-    "timeWeek": 45,
-    "timeMonth": 45,
-    "timeYear": 48,
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 51,
+    "timeDay": 1016,
+    "timeWeek": 288,
+    "timeMonth": 106,
+    "timeYear": 53,
     "dailyMinutesDown": {
-      "2024-04-06": 10
+      "2024-04-06": 32
     }
   },
   {
@@ -324,19 +324,19 @@
     "url": "https://www.dnd5eapi.co/api/races",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "races",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 39,
-    "timeDay": 35,
-    "timeWeek": 37,
-    "timeMonth": 37,
-    "timeYear": 41,
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 41,
+    "timeDay": 511,
+    "timeWeek": 155,
+    "timeMonth": 67,
+    "timeYear": 43,
     "dailyMinutesDown": {
-      "2024-04-06": 9
+      "2024-04-06": 31
     }
   },
   {
@@ -380,19 +380,19 @@
     "url": "https://www.dnd5eapi.co/api/skills",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "skills",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 36,
-    "timeDay": 37,
-    "timeWeek": 39,
-    "timeMonth": 38,
-    "timeYear": 37,
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 38,
+    "timeDay": 448,
+    "timeWeek": 141,
+    "timeMonth": 63,
+    "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-04-06": 7
+      "2024-04-06": 29
     }
   },
   {
@@ -418,19 +418,19 @@
     "url": "https://www.dnd5eapi.co/api/subclasses",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "subclasses",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 38,
-    "timeDay": 35,
-    "timeWeek": 37,
-    "timeMonth": 37,
-    "timeYear": 39,
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 39,
+    "timeDay": 287,
+    "timeWeek": 100,
+    "timeMonth": 53,
+    "timeYear": 41,
     "dailyMinutesDown": {
-      "2024-04-06": 6
+      "2024-04-06": 28
     }
   },
   {
@@ -438,19 +438,19 @@
     "url": "https://www.dnd5eapi.co/api/subraces",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "subraces",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 36,
-    "timeDay": 34,
-    "timeWeek": 36,
-    "timeMonth": 36,
-    "timeYear": 37,
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 37,
+    "timeDay": 297,
+    "timeWeek": 102,
+    "timeMonth": 53,
+    "timeYear": 38,
     "dailyMinutesDown": {
-      "2024-04-06": 4
+      "2024-04-06": 26
     }
   },
   {
@@ -458,19 +458,19 @@
     "url": "https://www.dnd5eapi.co/api/traits",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "traits",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 35,
-    "timeWeek": 38,
-    "timeMonth": 38,
-    "timeYear": 39,
+    "timeDay": 103,
+    "timeWeek": 55,
+    "timeMonth": 42,
+    "timeYear": 40,
     "dailyMinutesDown": {
-      "2024-04-06": 3
+      "2024-04-06": 25
     }
   },
   {
@@ -478,19 +478,19 @@
     "url": "https://www.dnd5eapi.co/api/weapon-properties",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "weapon-properties",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 36,
-    "timeDay": 33,
-    "timeWeek": 37,
-    "timeMonth": 37,
-    "timeYear": 37,
+    "time": 37,
+    "timeDay": 148,
+    "timeWeek": 66,
+    "timeMonth": 44,
+    "timeYear": 38,
     "dailyMinutesDown": {
-      "2024-04-06": 1
+      "2024-04-06": 23
     }
   }
 ]
