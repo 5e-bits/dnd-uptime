@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/races
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-06T08:36:35.722Z
+status: up
+code: 200
+responseTime: 986
+lastUpdated: 2024-04-06T09:07:30.532Z
 startTime: 2022-03-22T00:21:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
