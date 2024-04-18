@@ -4,18 +4,19 @@
     "url": "https://www.dnd5eapi.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 214,
-    "timeDay": 53,
-    "timeWeek": 154,
-    "timeMonth": 164,
+    "timeDay": 132,
+    "timeWeek": 161,
+    "timeMonth": 166,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2024-04-18": 0,
       "2023-09-26": 16,
       "2023-07-26": 46,
       "2023-05-13": 27
@@ -27,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.89%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 40,
     "timeDay": 10,
     "timeWeek": 36,
     "timeMonth": 34,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2024-04-18": 8,
+      "2024-04-18": 33,
       "2024-04-06": 56
     }
   },
@@ -48,18 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "graph-ql",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.89%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 38,
     "timeDay": 11,
     "timeWeek": 52,
     "timeMonth": 38,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-04-18": 6,
+      "2024-04-18": 31,
       "2024-04-06": 55
     }
   },
@@ -70,17 +71,17 @@
     "slug": "ability-scores",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.98%",
     "time": 37,
     "timeDay": 7,
     "timeWeek": 40,
     "timeMonth": 34,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2024-04-18": 5,
+      "2024-04-18": 30,
       "2024-04-06": 53
     }
   },
@@ -91,17 +92,17 @@
     "slug": "alignments",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.98%",
     "time": 37,
     "timeDay": 7,
     "timeWeek": 37,
     "timeMonth": 35,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2024-04-18": 3,
+      "2024-04-18": 28,
       "2024-04-06": 52
     }
   },
@@ -112,9 +113,9 @@
     "slug": "backgrounds",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 40,
     "timeDay": 8,
@@ -122,7 +123,7 @@
     "timeMonth": 33,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2024-04-18": 2,
+      "2024-04-18": 27,
       "2024-04-06": 50
     }
   },
@@ -133,9 +134,9 @@
     "slug": "classes",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 10,
@@ -143,7 +144,7 @@
     "timeMonth": 34,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 49
     }
   },
@@ -154,9 +155,9 @@
     "slug": "conditions",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 20,
@@ -164,7 +165,7 @@
     "timeMonth": 34,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 47
     }
   },
@@ -175,9 +176,9 @@
     "slug": "damage-types",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 19,
@@ -185,7 +186,7 @@
     "timeMonth": 34,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 45
     }
   },
@@ -196,9 +197,9 @@
     "slug": "equipment-categories",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 39,
     "timeDay": 21,
@@ -206,7 +207,7 @@
     "timeMonth": 36,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 44
     }
   },
@@ -217,9 +218,9 @@
     "slug": "equipment",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 91,
     "timeDay": 30,
@@ -227,7 +228,7 @@
     "timeMonth": 85,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 42
     }
   },
@@ -238,9 +239,9 @@
     "slug": "features",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 108,
     "timeDay": 32,
@@ -248,7 +249,7 @@
     "timeMonth": 88,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 41
     }
   },
@@ -259,9 +260,9 @@
     "slug": "languages",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 18,
@@ -269,7 +270,7 @@
     "timeMonth": 34,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 39
     }
   },
@@ -280,9 +281,9 @@
     "slug": "magic-schools",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 92,
     "timeDay": 20,
@@ -290,7 +291,7 @@
     "timeMonth": 870,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 34
     }
   },
@@ -301,9 +302,9 @@
     "slug": "monsters",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 20,
@@ -311,7 +312,7 @@
     "timeMonth": 60,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2024-04-18": 1
+      "2024-04-18": 26
     }
   },
   {
@@ -321,9 +322,9 @@
     "slug": "proficiencies",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 51,
     "timeDay": 25,
@@ -331,7 +332,7 @@
     "timeMonth": 104,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 32
     }
   },
@@ -342,9 +343,9 @@
     "slug": "races",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 41,
     "timeDay": 19,
@@ -352,7 +353,7 @@
     "timeMonth": 63,
     "timeYear": 43,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 31
     }
   },
@@ -362,10 +363,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "rules",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 33,
     "timeDay": 31,
@@ -373,7 +374,7 @@
     "timeMonth": 33,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2024-04-18": 1
+      "2024-04-18": 26
     }
   },
   {
@@ -382,10 +383,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "rule-sections",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 33,
     "timeDay": 18,
@@ -393,7 +394,7 @@
     "timeMonth": 32,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2024-04-18": 1
+      "2024-04-18": 26
     }
   },
   {
@@ -403,9 +404,9 @@
     "slug": "skills",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 38,
     "timeDay": 19,
@@ -413,7 +414,7 @@
     "timeMonth": 60,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 29
     }
   },
@@ -424,9 +425,9 @@
     "slug": "spells",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 20,
@@ -434,7 +435,7 @@
     "timeMonth": 61,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2024-04-18": 1
+      "2024-04-18": 26
     }
   },
   {
@@ -444,9 +445,9 @@
     "slug": "subclasses",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 39,
     "timeDay": 23,
@@ -454,7 +455,7 @@
     "timeMonth": 50,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 28
     }
   },
@@ -465,9 +466,9 @@
     "slug": "subraces",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 23,
@@ -475,7 +476,7 @@
     "timeMonth": 50,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 26
     }
   },
@@ -486,17 +487,17 @@
     "slug": "traits",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 39,
     "timeDay": 24,
     "timeWeek": 37,
     "timeMonth": 40,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 25
     }
   },
@@ -507,17 +508,17 @@
     "slug": "weapon-properties",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 20,
     "timeWeek": 34,
     "timeMonth": 41,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2024-04-18": 1,
+      "2024-04-18": 26,
       "2024-04-06": 23
     }
   }
