@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/spells
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-01T17:28:16.703Z
+status: up
+code: 200
+responseTime: 58
+lastUpdated: 2024-07-01T18:16:58.511Z
 startTime: 2022-03-22T00:21:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
