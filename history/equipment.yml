@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/equipment
-status: up
-code: 200
-responseTime: 31
-lastUpdated: 2024-10-15T23:15:53.029Z
+status: down
+code: 503
+responseTime: 248
+lastUpdated: 2024-10-16T04:17:32.338Z
 startTime: 2022-03-22T00:21:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
