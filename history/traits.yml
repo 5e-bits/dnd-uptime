@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/traits
-status: down
-code: 503
-responseTime: 238
-lastUpdated: 2024-10-16T04:18:10.547Z
+status: up
+code: 200
+responseTime: 25
+lastUpdated: 2024-10-16T16:16:51.637Z
 startTime: 2022-03-22T00:21:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
