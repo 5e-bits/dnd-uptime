@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/monsters
-status: down
-code: 503
-responseTime: 241
-lastUpdated: 2024-10-16T04:17:43.838Z
+status: up
+code: 200
+responseTime: 40
+lastUpdated: 2024-10-16T16:16:31.770Z
 startTime: 2022-03-22T00:21:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
