@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/backgrounds
-status: down
-code: 503
-responseTime: 240
-lastUpdated: 2024-10-16T04:17:17.352Z
+status: up
+code: 200
+responseTime: 24
+lastUpdated: 2024-10-16T16:16:09.724Z
 startTime: 2022-03-22T00:21:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
