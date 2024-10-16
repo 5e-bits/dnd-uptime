@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/ability-scores
-status: down
-code: 503
-responseTime: 240
-lastUpdated: 2024-10-16T04:17:11.314Z
+status: up
+code: 200
+responseTime: 27
+lastUpdated: 2024-10-16T16:16:05.177Z
 startTime: 2022-03-22T00:21:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
