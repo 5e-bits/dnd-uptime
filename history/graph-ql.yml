@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/graphql
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-08T23:51:58.790Z
+status: up
+code: 200
+responseTime: 30
+lastUpdated: 2024-11-09T01:03:22.131Z
 startTime: 2022-03-22T00:21:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
