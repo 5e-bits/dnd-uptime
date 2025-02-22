@@ -15,7 +15,7 @@ status-website:
     - title: API
       href: https://www.dnd5eapi.co
     - title: GraphQL
-      href: https://www.dnd5eapi.co/graphql
+      href: https://www.dnd5eapi.co/graphql/2014
     - title: API Source
       href: https://github.com/5e-bits/5e-srd-api
     - title: Database Source
@@ -23,58 +23,58 @@ status-website:
 sites: # List of endpoints to track
   - name: Website
     url: https://www.dnd5eapi.co
-  - name: API
-    url: https://www.dnd5eapi.co/api
-  - name: GraphQL
-    url: https://www.dnd5eapi.co/graphql
+  - name: API (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014
+  - name: GraphQL (2014 Rules)
+    url: https://www.dnd5eapi.co/graphql/2014
     method: POST
     headers:
       - "Content-Type: application/json"
     body: '{"query":"query { backgrounds { index } }"}'
-  - name: Ability Scores
-    url: https://www.dnd5eapi.co/api/ability-scores
-  - name: Alignments
-    url: https://www.dnd5eapi.co/api/alignments
-  - name: Backgrounds
-    url: https://www.dnd5eapi.co/api/backgrounds
-  - name: Classes
-    url: https://www.dnd5eapi.co/api/classes
-  - name: Conditions
-    url: https://www.dnd5eapi.co/api/conditions
-  - name: Damage Types
-    url: https://www.dnd5eapi.co/api/damage-types
-  - name: Equipment Categories
-    url: https://www.dnd5eapi.co/api/equipment-categories
-  - name: Equipment
-    url: https://www.dnd5eapi.co/api/equipment
-  - name: Features
-    url: https://www.dnd5eapi.co/api/features
-  - name: Languages
-    url: https://www.dnd5eapi.co/api/languages
-  - name: Magic Schools
-    url: https://www.dnd5eapi.co/api/magic-schools
-  - name: Monsters
-    url: https://www.dnd5eapi.co/api/monsters
-  - name: Proficiencies
-    url: https://www.dnd5eapi.co/api/proficiencies
-  - name: Races
-    url: https://www.dnd5eapi.co/api/races
-  - name: Rules
-    url: https://www.dnd5eapi.co/api/rules
-  - name: Rule Sections
-    url: https://www.dnd5eapi.co/api/rule-sections
-  - name: Skills
-    url: https://www.dnd5eapi.co/api/skills
-  - name: Spells
-    url: https://www.dnd5eapi.co/api/spells
-  - name: Subclasses
-    url: https://www.dnd5eapi.co/api/subclasses
-  - name: Subraces
-    url: https://www.dnd5eapi.co/api/subraces
-  - name: Traits
-    url: https://www.dnd5eapi.co/api/traits
-  - name: Weapon Properties
-    url: https://www.dnd5eapi.co/api/weapon-properties
+  - name: Ability Scores (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/ability-scores
+  - name: Alignments (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/alignments
+  - name: Backgrounds (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/backgrounds
+  - name: Classes (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/classes
+  - name: Conditions (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/conditions
+  - name: Damage Types (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/damage-types
+  - name: Equipment Categories (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/equipment-categories
+  - name: Equipment (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/equipment
+  - name: Features (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/features
+  - name: Languages (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/languages
+  - name: Magic Schools (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/magic-schools
+  - name: Monsters (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/monsters
+  - name: Proficiencies (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/proficiencies
+  - name: Races (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/races
+  - name: Rules (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/rules
+  - name: Rule Sections (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/rule-sections
+  - name: Skills (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/skills
+  - name: Spells (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/spells
+  - name: Subclasses (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/subclasses
+  - name: Subraces (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/subraces
+  - name: Traits (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/traits
+  - name: Weapon Properties (2014 Rules)
+    url: https://www.dnd5eapi.co/api/2014/weapon-properties
 workflowSchedule:
   graphs: 0 0 * * *
   responseTime: 0 23 * * *
