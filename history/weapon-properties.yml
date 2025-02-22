@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/weapon-properties
-status: down
-code: 429
-responseTime: 9
-lastUpdated: 2025-02-22T14:37:23.618Z
+status: up
+code: 200
+responseTime: 47
+lastUpdated: 2025-02-22T15:12:32.499Z
 startTime: 2022-03-22T00:21:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
