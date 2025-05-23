@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/2014/magic-schools
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-23T21:10:31.758Z
+status: up
+code: 200
+responseTime: 83
+lastUpdated: 2025-05-23T21:27:53.289Z
 startTime: 2025-02-22T15:14:42.640Z
 generator: Upptime <https://github.com/upptime/upptime>
