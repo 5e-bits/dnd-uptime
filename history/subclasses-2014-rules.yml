@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/2014/subclasses
-status: down
-code: 429
-responseTime: 25
-lastUpdated: 2025-08-20T22:49:12.130Z
+status: up
+code: 200
+responseTime: 29
+lastUpdated: 2025-08-20T23:14:17.009Z
 startTime: 2025-02-22T15:14:46.178Z
 generator: Upptime <https://github.com/upptime/upptime>
