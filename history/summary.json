@@ -4,16 +4,16 @@
     "url": "https://www.dnd5eapi.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "98.47%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.84%",
-    "time": 233,
-    "timeDay": 146,
-    "timeWeek": 190,
-    "timeMonth": 211,
+    "time": 232,
+    "timeDay": 134,
+    "timeWeek": 183,
+    "timeMonth": 208,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2025-08-26": 22,
@@ -362,18 +362,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "races-2014-rules",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 43,
     "timeDay": 17,
     "timeWeek": 42,
     "timeMonth": 43,
     "timeYear": 43,
     "dailyMinutesDown": {
-      "2025-08-26": 15,
       "2025-04-09": 26
     }
   },
@@ -384,9 +383,9 @@
     "slug": "rules-2014-rules",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 39,
     "timeDay": 14,
@@ -394,7 +393,6 @@
     "timeMonth": 39,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2025-08-26": 14,
       "2025-04-09": 26
     }
   },
@@ -405,9 +403,9 @@
     "slug": "rule-sections-2014-rules",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 40,
     "timeDay": 15,
@@ -415,7 +413,6 @@
     "timeMonth": 39,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2025-08-26": 14,
       "2025-04-09": 26
     }
   },
@@ -426,9 +423,9 @@
     "slug": "skills-2014-rules",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 49,
     "timeDay": 17,
@@ -436,7 +433,6 @@
     "timeMonth": 42,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2025-08-26": 13,
       "2025-08-20": 23,
       "2025-04-09": 26
     }
@@ -448,9 +444,9 @@
     "slug": "spells-2014-rules",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 45,
     "timeDay": 27,
@@ -458,7 +454,6 @@
     "timeMonth": 44,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2025-08-26": 13,
       "2025-04-09": 26
     }
   },
@@ -469,9 +464,9 @@
     "slug": "subclasses-2014-rules",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 44,
     "timeDay": 24,
@@ -479,7 +474,6 @@
     "timeMonth": 42,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2025-08-26": 12,
       "2025-08-20": 25,
       "2025-04-09": 26
     }
@@ -491,9 +485,9 @@
     "slug": "subraces-2014-rules",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 41,
     "timeDay": 17,
@@ -501,7 +495,6 @@
     "timeMonth": 42,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2025-08-26": 12,
       "2025-04-09": 26
     }
   },
@@ -512,9 +505,9 @@
     "slug": "traits-2014-rules",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 44,
     "timeDay": 46,
@@ -522,7 +515,6 @@
     "timeMonth": 48,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2025-08-26": 11,
       "2025-08-25": 24,
       "2025-07-30": 22,
       "2025-04-09": 26
@@ -535,9 +527,9 @@
     "slug": "weapon-properties-2014-rules",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 41,
     "timeDay": 17,
@@ -545,7 +537,6 @@
     "timeMonth": 40,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2025-08-26": 11,
       "2025-08-20": 18,
       "2025-08-09": 25,
       "2025-04-09": 26
