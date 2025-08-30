@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/2014/subraces
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-30T10:00:28.210Z
+status: up
+code: 200
+responseTime: 67
+lastUpdated: 2025-08-30T10:15:15.405Z
 startTime: 2025-02-22T15:14:46.581Z
 generator: Upptime <https://github.com/upptime/upptime>
