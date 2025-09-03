@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/2014/alignments
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-03T16:46:13.016Z
+status: up
+code: 200
+responseTime: 87
+lastUpdated: 2025-09-03T17:13:28.335Z
 startTime: 2025-02-22T15:14:38.604Z
 generator: Upptime <https://github.com/upptime/upptime>
