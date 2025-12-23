@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/2014/proficiencies
-status: up
-code: 200
-responseTime: 80
-lastUpdated: 2025-12-22T23:17:54.535Z
+status: down
+code: 429
+responseTime: 7
+lastUpdated: 2025-12-23T19:50:14.251Z
 startTime: 2025-02-22T15:14:43.520Z
 generator: Upptime <https://github.com/upptime/upptime>
