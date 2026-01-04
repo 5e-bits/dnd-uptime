@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co
-status: up
-code: 200
-responseTime: 178
-lastUpdated: 2026-01-03T23:17:15.540Z
+status: down
+code: 429
+responseTime: 208
+lastUpdated: 2026-01-04T05:40:52.403Z
 startTime: 2022-03-22T00:21:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
