@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/2014/rule-sections
-status: down
-code: 429
-responseTime: 22
-lastUpdated: 2026-01-04T05:41:04.541Z
+status: up
+code: 200
+responseTime: 6
+lastUpdated: 2026-01-04T05:54:43.252Z
 startTime: 2025-02-22T15:14:44.755Z
 generator: Upptime <https://github.com/upptime/upptime>
