@@ -1,7 +1,7 @@
 url: https://www.dnd5eapi.co/api/2014/features
-status: down
-code: 429
-responseTime: 11
-lastUpdated: 2026-01-10T07:16:14.677Z
+status: up
+code: 200
+responseTime: 141
+lastUpdated: 2026-01-10T07:38:04.214Z
 startTime: 2025-02-22T15:14:41.619Z
 generator: Upptime <https://github.com/upptime/upptime>
