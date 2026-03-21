@@ -23,58 +23,17 @@ status-website:
 sites: # List of endpoints to track
   - name: Website
     url: https://www.dnd5eapi.co
+    maxResponseTime: 30000
   - name: API (2014 Rules)
     url: https://www.dnd5eapi.co/api/2014
+    maxResponseTime: 30000
   - name: GraphQL (2014 Rules)
     url: https://www.dnd5eapi.co/graphql/2014
     method: POST
     headers:
       - "Content-Type: application/json"
     body: '{"query":"query { backgrounds { index } }"}'
-  - name: Ability Scores (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/ability-scores
-  - name: Alignments (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/alignments
-  - name: Backgrounds (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/backgrounds
-  - name: Classes (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/classes
-  - name: Conditions (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/conditions
-  - name: Damage Types (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/damage-types
-  - name: Equipment Categories (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/equipment-categories
-  - name: Equipment (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/equipment
-  - name: Features (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/features
-  - name: Languages (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/languages
-  - name: Magic Schools (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/magic-schools
-  - name: Monsters (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/monsters
-  - name: Proficiencies (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/proficiencies
-  - name: Races (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/races
-  - name: Rules (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/rules
-  - name: Rule Sections (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/rule-sections
-  - name: Skills (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/skills
-  - name: Spells (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/spells
-  - name: Subclasses (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/subclasses
-  - name: Subraces (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/subraces
-  - name: Traits (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/traits
-  - name: Weapon Properties (2014 Rules)
-    url: https://www.dnd5eapi.co/api/2014/weapon-properties
+    maxResponseTime: 30000
 workflowSchedule:
   graphs: 0 0 * * *
   responseTime: 0 23 * * *
@@ -82,4 +41,4 @@ workflowSchedule:
   summary: 0 0 * * *
   updateTemplate: 0 0 * * *
   updates: 0 3 * * *
-  uptime: '*/15 * * * *'
+  uptime: '*/30 * * * *'
